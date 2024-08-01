@@ -2,6 +2,8 @@
 
 This repository contains a Python project that performs facial expression recognition using a custom-built convolutional neural network (CNN) model and OpenCV. The project processes video input to detect faces and classify their expressions into one of seven categories: Angry, Disgusted, Fearful, Happy, Neutral, Sad, and Surprised.
 
+https://github.com/user-attachments/assets/5aa0ecb2-d23b-458b-b804-0d5cdd1ad4d9
+
 ### Features
 
 - Custom-built CNN model for facial expression recognition.
